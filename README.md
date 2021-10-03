@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # tindogsite
-=======
+
 # TinDog Web Site
 
 
@@ -11,7 +11,3 @@ Este ha sido mi primer proyecto con **UDEMY**.
 
 > "El optimismo es un riesgo laboral de la programación; el feedback es el tratamiento" - Kent Beck
 
-
-
-
->>>>>>> e2c424f (nuevocommit)
